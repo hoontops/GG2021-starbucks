@@ -3,7 +3,7 @@
    auth="Container"
    type="javax.sql.DataSource" 
    username="starbucks" 
-   password="1234"
+   password="1004"
    driverClassName="oracle.jdbc.driver.OracleDriver"
    factory="org.apache.tomcat.dbcp.dbcp2.BasicDataSourceFactory"   
    url="jdbc:oracle:thin:@127.0.0.1:1521:xe"
