@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-바보되는 기분임.
+바보되는 기분임. 오후 3시 17분
 </body>
 </html>
